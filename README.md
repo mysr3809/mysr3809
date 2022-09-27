@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**mysr3809/mysr3809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=250&color=F70000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+everyone+I'm+Mustafa+%F0%9F%91%8B;I'm+a+Full+Stack+Software+Developer" alt="Typing SVG" /></a>
+</div>
+    
+<h3 align="center">Full Stack Development is my passion 💪</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+<img height=400" width="800" alt="GIF" align="center" src="https://media1.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e471ja0tczh82erd57qqpa0kohjlr3fojgevwtdy4sk&rid=giphy.gif&ct=g">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+</br>
+
+- 🔭 I’m currently working on Full Stack Web Development.
+- 🌱 I’m currently learning Javascript.
+
+![](https://komarev.com/ghpvc/?username=mysr3809&color=green&label=PROFILE+VIEWS)
