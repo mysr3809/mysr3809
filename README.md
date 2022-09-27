@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack Development is my passion 💪</h3>
 
 <div align="center">
-<img height=400" width="800" alt="GIF" align="center" src="https://media1.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e471ja0tczh82erd57qqpa0kohjlr3fojgevwtdy4sk&rid=giphy.gif&ct=g">
+<img height=300" width="800" alt="GIF" align="center" src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47w1dlyvyl5rjxr5mlj26tuie0179znw7ed4ttirik&rid=giphy.gif&ct=g">
 </div>
 
 </br>
