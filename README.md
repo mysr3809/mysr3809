@@ -13,6 +13,6 @@
 </br>
 
 - 🔭 I’m currently working on Full Stack Web Development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Programming Languages. Like a HTML, CSS, Javascript, NodeJS.
 
 ![](https://komarev.com/ghpvc/?username=mysr3809&color=green&label=PROFILE+VIEWS)
