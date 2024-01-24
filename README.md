@@ -12,6 +12,8 @@
 </br>
 </br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mysr3809=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on Full Stack Web Development.
 
 ![](https://komarev.com/ghpvc/?username=mysr3809&color=green&label=PROFILE+VIEWS)
