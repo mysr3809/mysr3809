@@ -12,9 +12,6 @@
 </br>
 </br>
 
-(https://github-readme-stats.vercel.app/api?username=mysr3809)](https://github.com/anuraghazra/github-readme-stats)
-
-
 - 🔭 I’m currently working on Full Stack Web Development.
 
 ![](https://komarev.com/ghpvc/?username=mysr3809&color=green&label=PROFILE+VIEWS)
