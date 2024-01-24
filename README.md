@@ -12,7 +12,7 @@
 </br>
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimysr3809=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimysr3809)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Full Stack Web Development.
 
